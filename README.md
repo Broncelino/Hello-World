@@ -3,7 +3,7 @@ My name is Bryson Williams I have always loved computers and have been programmi
 will stand as the front page of my portfolio. I've already made other programs in various languages and have them 
 posted to this github. As of now 9/17/22 I am aiming to become a Database admin or something else in that field.
 
-Code: this code is a simple print statement in the pythong language.
+Code: this code is a simple print statement in the python language.
 Software Demo Video: https://youtu.be/fDWbUsMndpo
 
 #enviroment
